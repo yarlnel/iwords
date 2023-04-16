@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">english</string>
+    <string name="listAll">Список всех слов</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="str_for_Button">Стереть прогрес?</string>
+</resources>

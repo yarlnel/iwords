@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/goodfon"
+    tools:context=".MenuActivity">
+
+
+    <Button
+            android:id="@+id/buttonList"
+
+            android:layout_width="match_parent"
+
+
+            android:background="#BC7683CC"
+            android:text="С\nл\nо\nв\nа\nр\nь\n\n в\nс\nе\nх\n\n с\nл\nо\nв"
+ android:layout_weight="2"
+            android:textSize="25sp"
+            android:layout_height="match_parent"
+
+    />
+<Button android:layout_width="match_parent" android:layout_height="match_parent"
+android:layout_weight="2"
+        android:background="#79EFF3FC"
+        android:text="и\nн\nс\nт\nр\nу\nк\nц\nи\nя"
+        android:textSize="25sp"
+        android:id="@+id/setBtn"
+/>
+
+    <Button
+            android:layout_toRightOf="@id/buttonList"
+            android:text="В\nа\nш\nи \n\nс\nл\nо\nв\nа"
+android:layout_weight="2"
+            android:textSize="25sp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/buttonTrue"
+            android:background="#75FFA8A5"
+
+            />
+
+</LinearLayout>

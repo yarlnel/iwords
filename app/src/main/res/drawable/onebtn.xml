@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true" ><!--стиль если мы нажали-->
+        <shape android:shape="rectangle"  >
+            <corners android:radius="10dip" />
+            <stroke android:width="4dip" android:color="#7FFFB2" />
+            <solid android:color="#7FFBFF"/>
+        </shape>
+    </item>
+    <item android:state_focused="true"><!--стиль  если на месте курсор-->
+        <shape android:shape="rectangle"  >
+            <corners android:radius="10dip" />
+         >
+        </shape>
+    </item><!--стиль  изночально-->
+    <item>
+        <shape android:shape="rectangle"  >
+            <corners android:radius="20dip" /><!--корнес (углы)-->
+            <stroke android:width="4dip" android:color="#4A6C5C8F" /><!--строук (обводка)  виз (размер)    колор (цвет обводк)-->
+
+            <solid android:color="#32BCEBEC"/>
+            <!--цвет-->
+        </shape>
+    </item>
+</selector>

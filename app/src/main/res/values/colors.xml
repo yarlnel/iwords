@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#f1bfc3</color>
+    <color name="colorPrimaryDark">#f1bfc3</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorActiveGrin">#74cf93</color>
+    <color name="colorText">#51609e</color>
+    <color name="colorTextForList">#faf8ca</color>
+    <color name="colorTV1">#ff9392</color>
+    <color name="colorTV2">#96D3EB</color>
+    <color name="colorForMainText">#F5EBD0</color>
+    <color name="colorBtn">#FFFFFF</color>
+    <color name="colorBordles">#65d2e685</color>
+    <color name="colorBl">#505050</color>
+</resources>
