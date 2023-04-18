@@ -1,3 +1,3 @@
 # iwords
-My shool app for study english (2017)
+My school app for study english (2017)
 
